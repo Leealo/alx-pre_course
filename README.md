@@ -1,1 +1,1 @@
-ALX pre-course
+ALX pre-course is amazing.
